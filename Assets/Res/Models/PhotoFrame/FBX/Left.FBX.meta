@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: cbeae287faa303c4dac48e3a86cfe9e6
+timeCreated: 1478919809
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BoderGlow
+    100002: Clip02
+    100004: DownLoad
+    100006: Image02
+    100008: InShadow
+    100010: //RootNode
+    100012: Left
+    100014: Line02
+    100016: LoadFlash
+    100018: Particle View 01
+    100020: PhotoFrame
+    100022: LeftLine
+    100024: Clip01
+    100026: LeftClip
+    100028: Image
+    100030: LeftPhoto
+    100032: Box01
+    100034: Group01
+    400000: BoderGlow
+    400002: Clip02
+    400004: DownLoad
+    400006: Image02
+    400008: InShadow
+    400010: Left
+    400012: //RootNode
+    400014: Line02
+    400016: LoadFlash
+    400018: Particle View 01
+    400020: PhotoFrame
+    400022: LeftLine
+    400024: Clip01
+    400026: LeftClip
+    400028: Image
+    400030: LeftPhoto
+    400032: Box01
+    400034: Group01
+    2300000: BoderGlow
+    2300002: Clip02
+    2300004: DownLoad
+    2300006: Image02
+    2300008: InShadow
+    2300010: Left
+    2300012: Line02
+    2300014: LoadFlash
+    2300016: PhotoFrame
+    2300018: LeftLine
+    2300020: Clip01
+    2300022: //RootNode
+    2300024: LeftClip
+    2300026: Image
+    2300028: LeftPhoto
+    2300030: Box01
+    3300000: BoderGlow
+    3300002: Clip02
+    3300004: DownLoad
+    3300006: Image02
+    3300008: InShadow
+    3300010: Left
+    3300012: Line02
+    3300014: LoadFlash
+    3300016: PhotoFrame
+    3300018: LeftLine
+    3300020: Clip01
+    3300022: //RootNode
+    3300024: LeftClip
+    3300026: Image
+    3300028: LeftPhoto
+    3300030: Box01
+    4300000: DownLoad
+    4300002: BoderGlow
+    4300004: InShadow
+    4300006: Left
+    4300008: PhotoFrame
+    4300010: LoadFlash
+    4300012: Image02
+    4300014: Clip02
+    4300016: Line02
+    4300018: LeftLine
+    4300020: Clip01
+    4300022: LeftClip
+    4300024: Image
+    4300026: LeftPhoto
+    4300028: Box01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

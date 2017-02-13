@@ -1,0 +1,17 @@
+{
+    "version number": "1.0.0",
+    "Scene": [
+        {
+            "SceneName": "UI",
+            "Event": {
+                "init": 1
+            }
+        },
+        {
+            "SceneName": "Photo",
+            "Event": {
+                "init": 2
+            }
+        }
+    ]
+}

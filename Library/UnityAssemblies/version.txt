@@ -1,0 +1,16 @@
+5.3.5p8:2.8.2.0
+Android
+E:/unity3d/5.3.4.p8/Editor/Data/Managed/UnityEngine.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/unity3d/5.3.4.p8/Editor/Data/Managed/UnityEditor.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+E:/unity3d/5.3.4.p8/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+E:/unity3d/5.3.4.p8/Editor/Data/Managed/UnityEditor.Graphs.dll
+E:/unity3d/5.3.4.p8/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+E:/unity3d/5.3.4.p8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

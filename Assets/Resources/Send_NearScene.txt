@@ -1,0 +1,209 @@
+﻿{
+    "Event": "NearScene",
+    "cardType": -1,
+    "data": {
+        "code": 0,
+        "msg": "success",
+        "data": [
+            {
+                "cardId": "0581f6f2-1f8e-4997-8645-f4d9069f3c3c",
+                "cardType": 2,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/epyiodddeodopowepr.jpg",
+                "cardMsg": "game adv",
+                "cardData": {
+                    "url": "https://hao.360.cn/?src=lm&ls=n0b6c17139f"
+                }
+            },
+            {
+                "cardId": "7f2d86ca-7e3c-4d03-8c04-e0ba639f45f0",
+                "cardType": 0,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/fba3fd0b-7c6e-46e4-ab26-6467b7c26c7b.jpg",
+                "cardMsg": "user boardcast",
+                "cardData": {
+                    "actId": "5881898334a45a2a3ec57b57",
+                    "userInfo": {
+                        "uid": "587dee2634a45a1013f61245",
+                        "nickname": "哞哞",
+                        "playingGame": {
+                            "gid": "587d8bda2e34013be8ee180a",
+                            "gname": "雪刀群侠传",
+                            "iconUrl": "http://cdn2.image.apk.gfan.com/PImages/2017/01/03/1120250_6ecc85a9-a104-4178-be89-503796538944.jpg"
+                        },
+                        "concernedGame": null,
+                        "distance": null,
+                        "avatarImage": "http://img.gfan.com/fba3fd0b-7c6e-46e4-ab26-6467b7c26c7b.jpg-GameLink"
+                    }
+                }
+            },
+            {
+                "cardId": "cc53be6a-2dd0-4318-b407-563472bd6364",
+                "cardType": 0,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/a1d2cc01-27ff-46f3-b0eb-7519c20367a5.jpg",
+                "cardMsg": "user boardcast",
+                "cardData": {
+                    "actId": "5880ac6a34a45a2a3ec57b48",
+                    "userInfo": {
+                        "uid": "587f064734a45a1e91f3bddf",
+                        "nickname": "反串",
+                        "playingGame": null,
+                        "concernedGame": null,
+                        "distance": null,
+                        "avatarImage": "http://img.gfan.com/a1d2cc01-27ff-46f3-b0eb-7519c20367a5.jpg-GameLink"
+                    }
+                }
+            },
+            {
+                "cardId": "b766dc6f-3111-46c1-84b8-21f316db5ae7",
+                "cardType": 0,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/e1ce76e0-5bd8-4cb1-8072-7a8d7ca4dbd7.jpg",
+                "cardMsg": "user boardcast",
+                "cardData": {
+                    "actId": "5881b5ca34a45a2ecca92b6b",
+                    "userInfo": {
+                        "uid": "5881836234a45a2a3ec57b51",
+                        "nickname": "姓名\n不存在",
+                        "playingGame": {
+                            "gid": "587dc1e7c23f0a896e90cb62",
+                            "gname": "魔兽世界",
+                            "iconUrl": "http://img.gfan.com/gl_pc_mssj.png"
+                        },
+                        "concernedGame": null,
+                        "distance": null,
+                        "avatarImage": "http://img.gfan.com/e1ce76e0-5bd8-4cb1-8072-7a8d7ca4dbd7.jpg-GameLink"
+                    }
+                }
+            },
+            {
+                "cardId": "0465110e-2d06-468e-ba52-2e8420f3df04",
+                "cardType": 1,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/db5550fd-e0e2-41fd-9858-238b5844f243.jpg-GameLink",
+                "cardMsg": "user info",
+                "cardData": {
+                    "uid": "58808ed234a45a2333a94eb0",
+                    "nickname": "蘑菇头的炸弹",
+                    "playingGame": {
+                        "gid": "587dc34ac23f0a896e90cb63",
+                        "gname": "英雄联盟",
+                        "iconUrl": "http://img.gfan.com/gl_pc_yxlm.jpg"
+                    },
+                    "concernedGame": null,
+                    "distance": 6654390.030280542,
+                    "avatarImage": "http://img.gfan.com/db5550fd-e0e2-41fd-9858-238b5844f243.jpg-GameLink"
+                }
+            },
+            {
+                "cardId": "42e25146-0043-4675-adf6-f9ad199002a3",
+                "cardType": 1,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/1935fb41-4039-40f9-a93b-e975f3e8d7ac.jpg-GameLink",
+                "cardMsg": "user info",
+                "cardData": {
+                    "uid": "5880673534a45a2333a94e99",
+                    "nickname": "yzx",
+                    "playingGame": {
+                        "gid": "587dc1e7c23f0a896e90cb62",
+                        "gname": "魔兽世界",
+                        "iconUrl": "http://img.gfan.com/gl_pc_mssj.png"
+                    },
+                    "concernedGame": null,
+                    "distance": 6654501.127150243,
+                    "avatarImage": "http://img.gfan.com/1935fb41-4039-40f9-a93b-e975f3e8d7ac.jpg-GameLink"
+                }
+            },
+            {
+                "cardId": "c55bcc1b-d5d3-4dc3-8f07-e0bfccd3f280",
+                "cardType": 1,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/a52921f0-e24b-4b71-8e14-6a9fc4e47e5e.jpg-GameLink",
+                "cardMsg": "user info",
+                "cardData": {
+                    "uid": "587dee2634a45a1013f61245",
+                    "nickname": "哞哞",
+                    "playingGame": {
+                        "gid": "587d8bda2e34013be8ee180a",
+                        "gname": "雪刀群侠传",
+                        "iconUrl": "http://cdn2.image.apk.gfan.com/PImages/2017/01/03/1120250_6ecc85a9-a104-4178-be89-503796538944.jpg"
+                    },
+                    "concernedGame": null,
+                    "distance": 6654532.4782290645,
+                    "avatarImage": "http://img.gfan.com/a52921f0-e24b-4b71-8e14-6a9fc4e47e5e.jpg-GameLink"
+                }
+            },
+            {
+                "cardId": "4217782f-5a48-4ba5-a255-9f8826e0e7f2",
+                "cardType": 1,
+                "cardRate": 0,
+                "cardImg": "http://img.gfan.com/898c15a7-074d-4b6f-98ed-9249bcd609bd.jpg-GameLink",
+                "cardMsg": "user info",
+                "cardData": {
+                    "uid": "587cb27a34a45a0a87a5a143",
+                    "nickname": "取个啥名啊",
+                    "playingGame": {
+                        "gname": "英雄联盟",
+                        "iconUrl": "http://img.gfan.com/gl_pc_yxlm.jpg"
+                    },
+                    "concernedGame": null,
+                    "distance": 6654536.747866847,
+                    "avatarImage": "http://img.gfan.com/898c15a7-074d-4b6f-98ed-9249bcd609bd.jpg-GameLink"
+                }
+            },
+            {
+                "cardId": "689fe2e5-7a5a-4da2-b577-f27377684194",
+                "cardType": 3,
+                "cardRate": 0,
+                "cardImg": "http://cdn2.image.apk.gfan.com/PImages/2017/01/09/0_5271c80b-a7ee-42a1-8a47-d8d9d42a2b4b.jpg",
+                "cardMsg": "game recommend",
+                "cardData": {
+                    "gid": "587dc1e7c23f0a896e90cb62",
+                    "gname": "魔兽世界",
+                    "iconUrl": "http://img.gfan.com/gl_pc_mssj.png"
+                }
+            }
+        ]
+    },
+    "data_redbag": {
+        "code": 0,
+        "msg": "success",
+        "data": [
+            {
+                "cardId": "d86a0e36-177e-439e-a179-89a58a930ed8",
+                "cardType": 5,
+                "cardRate": 0,
+                "cardImg": null,
+                "cardMsg": "red packet",
+                "cardData": {
+                    "goodsId": "0x13",
+                    "goodsName": "diamond",
+                    "goodsType": 1,
+                    "goodsNum": 100
+                }
+            }
+        ]
+    },
+    "data_chest": {
+        "code": 0,
+        "msg": "success",
+        "data": [
+            {
+                "cardId": "58f53c8f-1fbd-41c7-b59b-10db4588ed28",
+                "cardType": 4,
+                "cardRate": 0,
+                "cardImg": null,
+                "cardMsg": "treasure",
+                "cardData": {
+                    "goodsId": "2074",
+                    "goodsName": "飞刀无双-特权礼包",
+                    "goodsType": 0,
+                    "goodsNum": 1,
+                    "gameId": "587d8bda2e34013be8ee180a",
+                    "goodsImg": "http://ka.gfan.com/assets/uploads/card/goods/5cdc407bc49e2c7c4a001ca0f85f93da_small.jpg"
+                }
+            }
+        ]
+    }
+}

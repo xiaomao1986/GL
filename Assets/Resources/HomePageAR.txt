@@ -1,0 +1,1 @@
+{"parentURL":"HomePage/AR","Name":"HomePage","position":{"x":0.0,"y":0.0,"z":0.0},"sizeDelta":{"w":100.0,"h":100.0},"Child":[{"PrefabName":"ar","position":{"x":-495.99658203125,"y":907.200439453125,"z":0.0},"sizeDelta":{"w":78.0999984741211,"h":78.8000030517578},"AnimationType":1,"ScriptType":1,"Direction":"left","label":"SUIButton","ButtonEvent":"CloseAR"}]}

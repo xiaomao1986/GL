@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 5a469fb61108da547a0910b3570489b8
+timeCreated: 1452601127
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Circle01
+    100002: earth
+    100004: Group01
+    100006: Jupiter
+    100008: Mars
+    100010: Mercury
+    100012: orbital
+    100014: Pluto
+    100016: Saturn
+    100018: Sphere01
+    100020: Sphere04
+    100022: Sphere14
+    100024: //RootNode
+    100026: venus
+    100028: Moon
+    100030: Sun
+    100032: Neptune
+    100034: Uranus
+    100036: Circle02
+    100038: Circle03
+    100040: Circle04
+    100042: Circle05
+    100044: Circle06
+    100046: Circle07
+    100048: Circle08
+    100050: Circle09
+    100052: Corona
+    400000: Circle01
+    400002: earth
+    400004: Group01
+    400006: Jupiter
+    400008: Mars
+    400010: Mercury
+    400012: orbital
+    400014: Pluto
+    400016: Saturn
+    400018: Sphere01
+    400020: Sphere04
+    400022: Sphere14
+    400024: //RootNode
+    400026: venus
+    400028: Moon
+    400030: Sun
+    400032: Neptune
+    400034: Uranus
+    400036: Circle02
+    400038: Circle03
+    400040: Circle04
+    400042: Circle05
+    400044: Circle06
+    400046: Circle07
+    400048: Circle08
+    400050: Circle09
+    400052: Corona
+    2300000: earth
+    2300002: Jupiter
+    2300004: Mars
+    2300006: Mercury
+    2300008: orbital
+    2300010: Pluto
+    2300012: Saturn
+    2300014: Sphere01
+    2300016: Sphere04
+    2300018: Sphere14
+    2300020: venus
+    2300022: Moon
+    2300024: Sun
+    2300026: Neptune
+    2300028: Uranus
+    2300030: Circle01
+    2300032: Circle02
+    2300034: Circle03
+    2300036: Circle04
+    2300038: Circle05
+    2300040: Circle06
+    2300042: Circle07
+    2300044: Circle08
+    2300046: Circle09
+    2300048: Corona
+    3300000: earth
+    3300002: Jupiter
+    3300004: Mars
+    3300006: Mercury
+    3300008: orbital
+    3300010: Pluto
+    3300012: Saturn
+    3300014: Sphere01
+    3300016: Sphere04
+    3300018: Sphere14
+    3300020: venus
+    3300022: Moon
+    3300024: Sun
+    3300026: Neptune
+    3300028: Uranus
+    3300030: Circle01
+    3300032: Circle02
+    3300034: Circle03
+    3300036: Circle04
+    3300038: Circle05
+    3300040: Circle06
+    3300042: Circle07
+    3300044: Circle08
+    3300046: Circle09
+    3300048: Corona
+    4300000: Sphere01
+    4300002: venus
+    4300004: earth
+    4300006: Sphere04
+    4300008: Sphere14
+    4300010: Mars
+    4300012: Jupiter
+    4300014: Saturn
+    4300016: Pluto
+    4300018: orbital
+    4300020: Mercury
+    4300022: Sun
+    4300024: Moon
+    4300026: Uranus
+    4300028: Neptune
+    4300030: Circle09
+    4300032: Circle05
+    4300034: Circle06
+    4300036: Circle07
+    4300038: Circle08
+    4300040: Circle04
+    4300042: Circle03
+    4300044: Circle02
+    4300046: Circle01
+    4300048: Corona
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
