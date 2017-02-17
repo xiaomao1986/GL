@@ -390,7 +390,7 @@ public class ItemManager
                 Vector3 v = m_PhotoConfigArray.GetPos(Next);
                 if (tmp.Value.cardType > 3)
                 {
-                    
+                    tmp.Value.itemRootObj.gameObject.transform.localPosition = Vector3.zero;
                     tmp.Value.SetPos(vs[Next2]);
                     tmp.Value.Appearanc();
                     Next2++;

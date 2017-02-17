@@ -256,7 +256,6 @@ public class ItemData
     public void SetPos(Vector3 pos)
     {
         RootObjPos = pos;
-        pos.y = pos.y;
         itemRootObj.gameObject.transform.localPosition = pos;
         //  SetClip();
         LoadImage();

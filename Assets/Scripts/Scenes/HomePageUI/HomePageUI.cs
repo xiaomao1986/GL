@@ -24,11 +24,14 @@ public class HomePageUI : Scene
 
     public GameObject tishi;
 
+    public bool isToggle=true;
 
+    public Toggle toggle;
     public Button[] jiaochengs;
     void Start()
     {
-        if(PlayerPrefs.GetInt("GUIDE3DGL") == 0)
+      //  PlayerPrefs.DeleteAll();
+        if (PlayerPrefs.GetInt("GUIDE3DGL") == 0)
         {
             jiaochengs[0].gameObject.SetActive(true);    
         }else
@@ -40,7 +43,7 @@ public class HomePageUI : Scene
         EventTriggerListener.Get(jiaochengs[1].gameObject).onClick = onjiaochengClick_01;
         EventTriggerListener.Get(jiaochengs[2].gameObject).onClick = onjiaochengClick_02;
         EventTriggerListener.Get(jiaochengs[3].gameObject).onClick = onjiaochengClick_03;
-        EventTriggerListener.Get(jiaochengs[4].gameObject).onClick = onjiaochengClick_04;
+        EventTriggerListener.Get(jiaochengs[5].gameObject).onClick = onjiaochengClick_04;
 
 
         EventTriggerListener.Get(Backbutton.gameObject).onClick = onBackbuttonClick;
@@ -79,7 +82,11 @@ public class HomePageUI : Scene
         jiaochengs[4].gameObject.SetActive(false);
         MsgBase.SendMsg("OnOpenScene", "PhotoScene");
         ui.SetActive(true);
-        PlayerPrefs.SetInt("GUIDE3DGL", 2);
+        if (isToggle)
+        {
+            PlayerPrefs.SetInt("GUIDE3DGL", 2);
+        }
+       
     }
     //动态
     private void onClick_00(GameObject go)
@@ -150,9 +157,10 @@ public class HomePageUI : Scene
         }
 
     }
-
-
-
+    public void OnValueChange(bool ist)
+    {
+        isToggle = toggle.isOn;
+    }
     private void onBackbuttonClick(GameObject go)
     {
         ///返回 事件
